@@ -33,3 +33,10 @@ Presuming you've forked / downloaded this repo and setup your own GitHub repo.
 
 p.s. If you like this idea, please tell your friends about it. If you tweet it, be sure to mention #ezResume and @ezWebDevTools. Thanks.
 
+
+
+##RESOURCES
+
+####Markdown Tables Generator
+- http://www.tablesgenerator.com/markdown_tables
+
