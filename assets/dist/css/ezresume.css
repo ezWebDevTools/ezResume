@@ -1,0 +1,53 @@
+body{
+  font-size:16px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Droid Serif', serif
+}
+
+h1{
+  font-weight:700
+}
+
+.container {
+    max-width: 750px
+}
+
+#drop-zone {
+    text-align: center;
+    padding-top: 25px;
+}
+
+#drop-zone p {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #656565;
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 0;
+}
+
+#files-received{
+    font-size: 14px;
+    text-align: center
+}
+
+.chevron {
+    text-align: center;
+}
+
+.chevron:hover {
+    cursor: pointer;
+    color: #000000;
+}
+
+.chevron .glyphicon{
+    padding:10px;
+    color:#656565;
+}
+
+#chevron-down{
+    display: none;
+}
